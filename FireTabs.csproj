@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E01FE38E-DDAD-412F-BC59-7DD087B76AA2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FireTabs</RootNamespace>
+    <AssemblyName>FireTabs</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>imageres_15.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Fizzler, Version=1.3.0.0, Culture=neutral, PublicKeyToken=4ebff4844e382110, processorArchitecture=MSIL">
+      <HintPath>..\packages\Fizzler.1.3.0\lib\netstandard2.0\Fizzler.dll</HintPath>
+    </Reference>
+    <Reference Include="Svg, Version=3.2.0.0, Culture=neutral, PublicKeyToken=12a0bac221edeae2, processorArchitecture=MSIL">
+      <HintPath>..\packages\Svg.3.2.3\lib\net461\Svg.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.5.0.0\lib\net45\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="imageres_15.ico" />
+    <Content Include="Resources\Chrome\Add.png" />
+    <Content Include="Resources\Chrome\AddHover.png" />
+    <Content Include="Resources\Chrome\Background.png" />
+    <Content Include="Resources\Chrome\Center.png" />
+    <Content Include="Resources\Chrome\Close.png" />
+    <Content Include="Resources\Chrome\CloseHover.png" />
+    <Content Include="Resources\Chrome\InactiveCenter.png" />
+    <Content Include="Resources\Chrome\InactiveLeft.png" />
+    <Content Include="Resources\Chrome\InactiveRight.png" />
+    <Content Include="Resources\Chrome\InactiveRightNoDivider.png" />
+    <Content Include="Resources\Chrome\Left.png" />
+    <Content Include="Resources\Chrome\Right.png" />
+    <Content Include="Resources\Windows10\Close.svg" />
+    <Content Include="Resources\Windows10\CloseHighlight.svg" />
+    <Content Include="Resources\Windows10\Maximize.svg" />
+    <Content Include="Resources\Windows10\Minimize.svg" />
+    <Content Include="Resources\Windows10\Restore.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\renderingCoreTabs\renderingCoreTabs.csproj">
+      <Project>{e307352a-e1fe-4387-9355-997082a13df4}</Project>
+      <Name>renderingCoreTabs</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Win32Interop.Dwmapi\Win32Interop.Dwmapi.csproj">
+      <Project>{46e26c0d-dc39-4577-90e2-1af7ace5b00b}</Project>
+      <Name>Win32Interop.Dwmapi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Win32Interop.Gdi32\Win32Interop.Gdi32.csproj">
+      <Project>{69cc6c9a-81ca-419d-9342-97f194ec7cad}</Project>
+      <Name>Win32Interop.Gdi32</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Win32Interop.Kernel32\Win32Interop.Kernel32.csproj">
+      <Project>{6e5c2c91-9d09-4326-bc49-3efed1bced54}</Project>
+      <Name>Win32Interop.Kernel32</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Win32Interop.User32\Win32Interop.User32.csproj">
+      <Project>{a46ad2ae-0cbb-47d7-95e8-f34dcc225b39}</Project>
+      <Name>Win32Interop.User32</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Win32Interop.Uxtheme\Win32Interop.Uxtheme.csproj">
+      <Project>{2b480568-d5a9-45a0-a039-e52afcaebd07}</Project>
+      <Name>Win32Interop.Uxtheme</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
