@@ -10,11 +10,12 @@ namespace FireTabs
 {
 	/// <summary>
 	/// Provides the base functionality for any tab renderer, taking care of actually rendering and detecting whether the cursor is over a tab.  Any custom
-	/// tab renderer needs to inherit from this class, just as <see cref="ChromeTabRenderer" /> does.
+	/// tab renderer needs to inherit from this class, just as <see cref="FireTabRenderer" /> does.
 	/// </summary>
 	public abstract class FireBaseTabRenderer
 	{
 		bool? _isWindows10 = null;
+		bool? _isWindows11 = null;
 
 		/// <summary>
 		/// Background of the content area for the tab when the tab is active; its width also determines how wide the default content area for the tab
@@ -120,6 +121,22 @@ namespace FireTabs
 				}
 
 				return _isWindows10.Value;
+			}
+		}
+
+		public bool IsWindows11
+		{
+			get
+			{
+				if (_isWindows11 == null)
+				{
+					RegistryKey reg = Registry.LocalMachine.OpenSubKey(@"SOFTWARE\Microsoft\Windows NT\CurrentVersion");
+					string productName = (string)reg.GetValue("ProductName");
+
+					_isWindows11 = productName.StartsWith("Windows 11");
+				}
+
+				return _isWindows11.Value;
 			}
 		}
 
@@ -555,6 +572,8 @@ namespace FireTabs
 			// width we had in the previous rendering pass
 			bool redraw = tabContentWidth != _tabContentWidth || forceRedraw;
 
+			
+
 			if (redraw)
 			{
 				_tabContentWidth = tabContentWidth;
@@ -879,6 +898,7 @@ namespace FireTabs
 				_parentWindow.Tabs.Insert(dropIndex, tab);
 			}
 
+			
 			// Resume rendering
 			_suspendRendering = false;
 

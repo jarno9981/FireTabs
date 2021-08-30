@@ -69,7 +69,7 @@ namespace FireTabs
 
 			_previousWindowState = null;
 			ExitOnLastTabClose = true;
-			InitializeComponent();
+			
 			SetWindowThemeAttributes(WTNCA.NODRAWCAPTION | WTNCA.NODRAWICON);
 
 			_tabs.CollectionModified += _tabs_CollectionModified;
