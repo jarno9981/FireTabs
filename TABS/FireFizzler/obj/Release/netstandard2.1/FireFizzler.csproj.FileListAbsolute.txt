@@ -1,0 +1,10 @@
+C:\Users\jarno\Desktop\FireTabs\FireFizzler\bin\Release\netstandard2.1\FireFizzler.deps.json
+C:\Users\jarno\Desktop\FireTabs\FireFizzler\bin\Release\netstandard2.1\FireFizzler.dll
+C:\Users\jarno\Desktop\FireTabs\FireFizzler\bin\Release\netstandard2.1\FireFizzler.pdb
+C:\Users\jarno\Desktop\FireTabs\FireFizzler\obj\Release\netstandard2.1\FireFizzler.csproj.AssemblyReference.cache
+C:\Users\jarno\Desktop\FireTabs\FireFizzler\obj\Release\netstandard2.1\FireFizzler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarno\Desktop\FireTabs\FireFizzler\obj\Release\netstandard2.1\FireFizzler.AssemblyInfoInputs.cache
+C:\Users\jarno\Desktop\FireTabs\FireFizzler\obj\Release\netstandard2.1\FireFizzler.AssemblyInfo.cs
+C:\Users\jarno\Desktop\FireTabs\FireFizzler\obj\Release\netstandard2.1\FireFizzler.csproj.CoreCompileInputs.cache
+C:\Users\jarno\Desktop\FireTabs\FireFizzler\obj\Release\netstandard2.1\FireFizzler.dll
+C:\Users\jarno\Desktop\FireTabs\FireFizzler\obj\Release\netstandard2.1\FireFizzler.pdb

@@ -1,0 +1,6 @@
+C:\Users\jarno\Desktop\FireTabs\renderingCoreTabs\bin\x64\Release\renderingCoreTabs.dll
+C:\Users\jarno\Desktop\FireTabs\renderingCoreTabs\bin\x64\Release\renderingCoreTabs.pdb
+C:\Users\jarno\Desktop\FireTabs\renderingCoreTabs\obj\x64\Release\renderingCoreTabs.csproj.CoreCompileInputs.cache
+C:\Users\jarno\Desktop\FireTabs\renderingCoreTabs\obj\x64\Release\renderingCoreTabs.dll
+C:\Users\jarno\Desktop\FireTabs\renderingCoreTabs\obj\x64\Release\renderingCoreTabs.pdb
+C:\Users\jarno\Desktop\FireTabs\renderingCoreTabs\obj\x64\Release\renderingCoreTabs.csproj.AssemblyReference.cache

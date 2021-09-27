@@ -1,0 +1,5 @@
+C:\Users\jarno\source\repos\FireTabs\Win32Interop.FireUser32\bin\Release\Win32Interop.FireUser32.dll
+C:\Users\jarno\source\repos\FireTabs\Win32Interop.FireUser32\bin\Release\Win32Interop.FireUser32.pdb
+C:\Users\jarno\source\repos\FireTabs\Win32Interop.FireUser32\obj\Release\Win32Interop.FireUser32.csproj.CoreCompileInputs.cache
+C:\Users\jarno\source\repos\FireTabs\Win32Interop.FireUser32\obj\Release\Win32Interop.FireUser32.dll
+C:\Users\jarno\source\repos\FireTabs\Win32Interop.FireUser32\obj\Release\Win32Interop.FireUser32.pdb

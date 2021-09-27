@@ -1,0 +1,1 @@
+nuget pack FireTabs.csproj -Prop Configuration=x64\Release

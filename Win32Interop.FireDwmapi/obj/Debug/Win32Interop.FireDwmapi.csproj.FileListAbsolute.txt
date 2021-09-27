@@ -1,0 +1,13 @@
+C:\Users\jarno\source\repos\FireTabs\Win32Interop.FireDwmapi\bin\Debug\Win32Interop.FireDwmapi.dll
+C:\Users\jarno\source\repos\FireTabs\Win32Interop.FireDwmapi\bin\Debug\Win32Interop.FireDwmapi.pdb
+C:\Users\jarno\source\repos\FireTabs\Win32Interop.FireDwmapi\obj\Debug\Win32Interop.FireDwmapi.csprojAssemblyReference.cache
+C:\Users\jarno\source\repos\FireTabs\Win32Interop.FireDwmapi\obj\Debug\Win32Interop.FireDwmapi.csproj.CoreCompileInputs.cache
+C:\Users\jarno\source\repos\FireTabs\Win32Interop.FireDwmapi\obj\Debug\Win32Interop.FireDwmapi.dll
+C:\Users\jarno\source\repos\FireTabs\Win32Interop.FireDwmapi\obj\Debug\Win32Interop.FireDwmapi.pdb
+C:\Users\jarno\source\repos\FireTabs\Win32Interop.FireDwmapi\bin\Debug\Win32Interop.FireUser32.dll
+C:\Users\jarno\source\repos\FireTabs\Win32Interop.FireDwmapi\bin\Debug\Win32Interop.FireUxtheme.dll
+C:\Users\jarno\source\repos\FireTabs\Win32Interop.FireDwmapi\bin\Debug\Win32Interop.FireGdi32.dll
+C:\Users\jarno\source\repos\FireTabs\Win32Interop.FireDwmapi\bin\Debug\Win32Interop.FireUser32.pdb
+C:\Users\jarno\source\repos\FireTabs\Win32Interop.FireDwmapi\bin\Debug\Win32Interop.FireUxtheme.pdb
+C:\Users\jarno\source\repos\FireTabs\Win32Interop.FireDwmapi\bin\Debug\Win32Interop.FireGdi32.pdb
+C:\Users\jarno\source\repos\FireTabs\Win32Interop.FireDwmapi\obj\Debug\Win32Interop.FireDwmapi.csproj.CopyComplete

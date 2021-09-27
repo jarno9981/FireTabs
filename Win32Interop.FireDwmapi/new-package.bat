@@ -1,0 +1,1 @@
+NuGet.exe pack Win32Interop.FireDwmapi.csproj -Prop Configuration=x64\Release

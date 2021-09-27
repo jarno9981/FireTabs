@@ -1,0 +1,9 @@
+C:\Users\jarno\Desktop\FireTabs\Win32Interop.FireGdi32\bin\x64\Debug\Win32Interop.FireGdi32.dll
+C:\Users\jarno\Desktop\FireTabs\Win32Interop.FireGdi32\bin\x64\Debug\Win32Interop.FireGdi32.pdb
+C:\Users\jarno\Desktop\FireTabs\Win32Interop.FireGdi32\bin\x64\Debug\Win32Interop.FireUser32.dll
+C:\Users\jarno\Desktop\FireTabs\Win32Interop.FireGdi32\bin\x64\Debug\Win32Interop.FireUser32.pdb
+C:\Users\jarno\Desktop\FireTabs\Win32Interop.FireGdi32\obj\x64\Debug\Win32Interop.FireGdi32.csproj.AssemblyReference.cache
+C:\Users\jarno\Desktop\FireTabs\Win32Interop.FireGdi32\obj\x64\Debug\Win32Interop.FireGdi32.csproj.CoreCompileInputs.cache
+C:\Users\jarno\Desktop\FireTabs\Win32Interop.FireGdi32\obj\x64\Debug\Win32Interop.FireGdi32.csproj.CopyComplete
+C:\Users\jarno\Desktop\FireTabs\Win32Interop.FireGdi32\obj\x64\Debug\Win32Interop.FireGdi32.dll
+C:\Users\jarno\Desktop\FireTabs\Win32Interop.FireGdi32\obj\x64\Debug\Win32Interop.FireGdi32.pdb

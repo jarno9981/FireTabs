@@ -1,0 +1,11 @@
+C:\Users\jarno\Desktop\FireTabs\Win32Interop.FireUxtheme\bin\x64\Release\Win32Interop.FireUxtheme.dll
+C:\Users\jarno\Desktop\FireTabs\Win32Interop.FireUxtheme\bin\x64\Release\Win32Interop.FireUxtheme.pdb
+C:\Users\jarno\Desktop\FireTabs\Win32Interop.FireUxtheme\bin\x64\Release\Win32Interop.FireGdi32.dll
+C:\Users\jarno\Desktop\FireTabs\Win32Interop.FireUxtheme\bin\x64\Release\Win32Interop.FireUser32.dll
+C:\Users\jarno\Desktop\FireTabs\Win32Interop.FireUxtheme\bin\x64\Release\Win32Interop.FireGdi32.pdb
+C:\Users\jarno\Desktop\FireTabs\Win32Interop.FireUxtheme\bin\x64\Release\Win32Interop.FireUser32.pdb
+C:\Users\jarno\Desktop\FireTabs\Win32Interop.FireUxtheme\obj\x64\Release\Win32Interop.FireUxtheme.csproj.AssemblyReference.cache
+C:\Users\jarno\Desktop\FireTabs\Win32Interop.FireUxtheme\obj\x64\Release\Win32Interop.FireUxtheme.csproj.CoreCompileInputs.cache
+C:\Users\jarno\Desktop\FireTabs\Win32Interop.FireUxtheme\obj\x64\Release\Win32Interop.FireUxtheme.csproj.CopyComplete
+C:\Users\jarno\Desktop\FireTabs\Win32Interop.FireUxtheme\obj\x64\Release\Win32Interop.FireUxtheme.dll
+C:\Users\jarno\Desktop\FireTabs\Win32Interop.FireUxtheme\obj\x64\Release\Win32Interop.FireUxtheme.pdb

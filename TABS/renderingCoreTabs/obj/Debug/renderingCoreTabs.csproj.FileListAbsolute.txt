@@ -1,0 +1,5 @@
+C:\Users\jarno\source\repos\FireTabs\renderingCoreTabs\bin\Debug\renderingCoreTabs.dll
+C:\Users\jarno\source\repos\FireTabs\renderingCoreTabs\bin\Debug\renderingCoreTabs.pdb
+C:\Users\jarno\source\repos\FireTabs\renderingCoreTabs\obj\Debug\renderingCoreTabs.csproj.CoreCompileInputs.cache
+C:\Users\jarno\source\repos\FireTabs\renderingCoreTabs\obj\Debug\renderingCoreTabs.dll
+C:\Users\jarno\source\repos\FireTabs\renderingCoreTabs\obj\Debug\renderingCoreTabs.pdb

@@ -1,0 +1,1 @@
+NuGet.exe pack Win32Interop.FireUser32.csproj -Prop Configuration=x64\Release

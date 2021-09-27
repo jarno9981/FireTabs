@@ -1,0 +1,1 @@
+NuGet.exe pack renderingCoreTabs.csproj -Prop Configuration=x64\Release

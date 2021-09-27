@@ -1,0 +1,6 @@
+C:\Users\jarno\Desktop\FireTabs\Fire.WindowsApiCodePack\bin\Debug\Fire.WindowsApiCodePack.Core.dll
+C:\Users\jarno\Desktop\FireTabs\Fire.WindowsApiCodePack\bin\Debug\Fire.WindowsApiCodePack.Core.pdb
+C:\Users\jarno\Desktop\FireTabs\Fire.WindowsApiCodePack\obj\Debug\Fire.WindowsApiCodePack.Core.csproj.AssemblyReference.cache
+C:\Users\jarno\Desktop\FireTabs\Fire.WindowsApiCodePack\obj\Debug\Fire.WindowsApiCodePack.Core.csproj.CoreCompileInputs.cache
+C:\Users\jarno\Desktop\FireTabs\Fire.WindowsApiCodePack\obj\Debug\Fire.WindowsApiCodePack.Core.dll
+C:\Users\jarno\Desktop\FireTabs\Fire.WindowsApiCodePack\obj\Debug\Fire.WindowsApiCodePack.Core.pdb
